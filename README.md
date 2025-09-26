@@ -3,19 +3,19 @@ memakai fitur app password bawaan dari google (gmail) dan tujuan untuk mengambil
 
 ### Cara Penginstallan 
 1. download file github dengan lakukan
-   '''
+   ```
    git clone https://github.com/Antflash500/project_1
-   '''
-2. Jika sudah install juga 'requirments.txt' nya, dengan perintah
-3. lalu masuk ke code 'config.py' dan ubah code nya, seperti berikut :
-   '''
+   ```
+2. Jika sudah install juga `requirments.txt` nya, dengan perintah
+3. lalu masuk ke code `config.py` dan ubah code nya, seperti berikut :
+   ```
    'email': 'algynx4@@gmail.com',  # Ganti dengan emailmu
    'app_password': 'rwwp sjkh sxdb gyws',  # Ganti dengan app password
-   '''
-4. jika sudah jalankan 'main.py' dengan perintah :
-   '''
+   ```
+4. jika sudah jalankan `main.py` dengan perintah :
+   ```
    python main.py
-   '''
+   ```
 
 ### Feature :
 - Monitor Gmail tiap 40 detik (connect → check → disconnect)
