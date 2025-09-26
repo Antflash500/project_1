@@ -1,4 +1,4 @@
-# Ini adalah projek pertama dari AI saya by: Antflash005 / 4l9ynX__X
+# Project One by: Antflash005 / 4l9ynX__X
 memakai fitur app password bawaan dari google (gmail) dan tujuan untuk mengambil(graph) yang masuk ke gmail untuk di tampilkan dalam bentuk notif ke windows desktop pojok kanan bawah, dan code tersebut mampu mendefinisikan apa saja email yang pentin, sedang, dan tidak dan menyortir nya di notif
 
 
