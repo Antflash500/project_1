@@ -4,12 +4,12 @@ memakai fitur app password bawaan dari google (gmail)
 
 
 feature :
-✅ Monitor Gmail tiap 40 detik (connect → check → disconnect)
-✅ Custom popup pojok kanan bawah  
-✅ Tampilkan: Pengirim, Subject, Priority badge
-✅ Auto-hide setelah 5 detik
-✅ Background operation (system tray)
-✅ One-click open in browser
+- Monitor Gmail tiap 40 detik (connect → check → disconnect)
+- Custom popup pojok kanan bawah
+- Tampilkan: Pengirim, Subject, Priority badge
+- Auto-hide setelah 5 detik
+- Background operation (system tray)
+- One-click open in browser
 
 untuk fitur yang akan datang adalah :
 - System tray icon dengan menu
