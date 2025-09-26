@@ -15,8 +15,9 @@ memakai fitur app password bawaan dari google (gmail) dan tujuan untuk mengambil
    
 4. lalu masuk ke code `config.py` dan ubah code nya, seperti berikut :
    ```
-   'email': 'algynx4@@gmail.com',  # Ganti dengan emailmu
-   'app_password': 'rwwp sjkh sxdb gyws',  # Ganti dengan app password
+   GMAIL_CONFIG = {
+       'email': 'contoh@gmail.com',         # Ganti dengan emailmu
+       'app_password': '16 code nya',       # Ganti dengan app password
    ```
    
 5. jika sudah jalankan `main.py` dengan perintah :
